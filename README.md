@@ -138,4 +138,13 @@ Each table is queryable via Delta Lake with clean, deduplicated, and surrogate-k
   
 💡 Passionate about Data Engineering & Analytics
 
+## 🔮 Future Enhancements
+
+- Integrate with Power BI or Looker for dashboard visualization
+- Add unit testing for transformation logic using `pytest`
+- Add CI/CD deployment using GitHub Actions for notebook promotion
+- Incorporate data quality checks using expectations in Delta Live Tables
+- Use Azure Data Factory to trigger pipelines via REST API
+- Execute the full pipeline on a paid subscription to avoid cluster quota limits
+
 
